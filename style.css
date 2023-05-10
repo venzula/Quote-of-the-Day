@@ -1,0 +1,23 @@
+div{
+    text-align: center
+}
+
+h1{
+    font-size: 60px ;
+}
+
+p{
+    font-size: 32px;
+}
+
+button{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: green;
+}
